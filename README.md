@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parvesh001
-- 👀 I’m interested in web development
+- 👀 I’m interested in web app development
 - 📫 Contact me on my Instagram @lavu001
 
 <!---
